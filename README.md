@@ -77,4 +77,3 @@ Key outcomes from the analysis:
 git clone https://github.com/your-username/project-name.git
 cd project-name
 ```
-If you want, I can also create a **🔥 “resume-optimized” version** (shorter, ATS-friendly), or a **GitHub-star-worthy version** with badges, icons, and visuals that recruiters love.
