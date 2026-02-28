@@ -15,9 +15,13 @@ Description: Contains structured data used for analysis, cleaning, querying, and
 ## Tools & Technologies
 
 > Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 > SQL (PostgreSQL / MySQL / SQL Server)
+
 > Power BI
+
 > Gamma (for PPT creation)
+
 > Jupyter Notebook / VS Code
 
 ## Project Workflow / Steps
